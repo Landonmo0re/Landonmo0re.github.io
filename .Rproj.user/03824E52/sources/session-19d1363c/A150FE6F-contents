@@ -1,0 +1,16 @@
+---
+title: "Landon Moore"
+image: "Headcover photo.png"
+about:
+  template: jolla
+  links:
+    - icon: github
+      text: GitHub
+      href: https://github.com/Landonmo0re
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/landon-moore-b7844b368
+    - icon: inboxes
+      text: Contact
+      href: mailto:landon9moore@gmail.com
+---
