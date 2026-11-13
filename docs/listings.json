@@ -3,7 +3,10 @@
     "listing": "/projects.html",
     "items": [
       "/posts/welcome/index.html",
-      "/posts/post-with-code/index.html"
+      "/posts/post-with-code/index.html",
+      "/posts/Data Visualization/index.html",
+      "/posts/Project 1/index.html",
+      "/posts/Project 2/index.html"
     ]
   }
 ]
