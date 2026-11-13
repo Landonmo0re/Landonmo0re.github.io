@@ -7,39 +7,95 @@
     "text": "&lt;p&gt;&lt;br /&gt;\n&lt;/p&gt;"
   },
   {
-    "objectID": "posts/welcome/index.html",
-    "href": "posts/welcome/index.html",
-    "title": "Welcome To My Blog",
+    "objectID": "posts/Robot Optimization Project/index.html",
+    "href": "posts/Robot Optimization Project/index.html",
+    "title": "Robot Path Optimization",
     "section": "",
-    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+    "text": "For our Introduction to Engineering course at the University of Arkansas, our team programmed a robot to navigate an obstacle course. Our goal was to find an efficient path while reducing the time needed to complete the course and avoiding collisions."
   },
   {
-    "objectID": "posts/Project 1/index.html#project-overview",
-    "href": "posts/Project 1/index.html#project-overview",
+    "objectID": "posts/Robot Optimization Project/index.html#project-introduction",
+    "href": "posts/Robot Optimization Project/index.html#project-introduction",
+    "title": "Robot Path Optimization",
+    "section": "",
+    "text": "For our Introduction to Engineering course at the University of Arkansas, our team programmed a robot to navigate an obstacle course. Our goal was to find an efficient path while reducing the time needed to complete the course and avoiding collisions."
+  },
+  {
+    "objectID": "posts/Robot Optimization Project/index.html#project-objective",
+    "href": "posts/Robot Optimization Project/index.html#project-objective",
+    "title": "Robot Path Optimization",
+    "section": "Project Objective",
+    "text": "Project Objective\nWe wanted to improve how the robot moved through the course by comparing different paths and making changes based on the results of our tests."
+  },
+  {
+    "objectID": "posts/Robot Optimization Project/index.html#what-we-did",
+    "href": "posts/Robot Optimization Project/index.html#what-we-did",
+    "title": "Robot Path Optimization",
+    "section": "What We Did",
+    "text": "What We Did\n\nProgrammed the robot to navigate an obstacle course.\nCompared different routes to see which worked most efficiently.\nRan tests to evaluate how the robot performed.\nAdjusted the robot’s movement program after reviewing the results."
+  },
+  {
+    "objectID": "posts/Robot Optimization Project/index.html#my-role",
+    "href": "posts/Robot Optimization Project/index.html#my-role",
+    "title": "Robot Path Optimization",
+    "section": "My Role",
+    "text": "My Role\nI helped lead the team and worked on improving our approach throughout the project. I also helped make adjustments based on what we learned during testing."
+  },
+  {
+    "objectID": "posts/Robot Optimization Project/index.html#what-we-learned",
+    "href": "posts/Robot Optimization Project/index.html#what-we-learned",
+    "title": "Robot Path Optimization",
+    "section": "What We Learned",
+    "text": "What We Learned\nThis project gave us experience with programming, optimization, problem solving, and teamwork. It showed us how testing and small changes can improve how a process performs."
+  },
+  {
+    "objectID": "posts/Balsa Tower Project/index.html",
+    "href": "posts/Balsa Tower Project/index.html",
     "title": "Balsa Wood Tower Design & Load Testing",
-    "section": "Project Overview",
-    "text": "Project Overview\nFor my Introduction to Engineering course at the University of Arkansas, my team was challenged to design and construct a balsa wood tower under a strict 15-gram mass limit. The goal was to balance structural strength with the amount of material used."
+    "section": "",
+    "text": "For our Introduction to Engineering course at the University of Arkansas, our team designed and built a balsa wood tower with a 15-gram mass limit. We wanted to make the structure as strong as possible while staying within the material limit."
   },
   {
-    "objectID": "posts/Project 1/index.html#what-we-did",
-    "href": "posts/Project 1/index.html#what-we-did",
+    "objectID": "posts/Balsa Tower Project/index.html#project-introduction",
+    "href": "posts/Balsa Tower Project/index.html#project-introduction",
+    "title": "Balsa Wood Tower Design & Load Testing",
+    "section": "",
+    "text": "For our Introduction to Engineering course at the University of Arkansas, our team designed and built a balsa wood tower with a 15-gram mass limit. We wanted to make the structure as strong as possible while staying within the material limit."
+  },
+  {
+    "objectID": "posts/Balsa Tower Project/index.html#project-objective",
+    "href": "posts/Balsa Tower Project/index.html#project-objective",
+    "title": "Balsa Wood Tower Design & Load Testing",
+    "section": "Project Objective",
+    "text": "Project Objective\nOur goal was to balance strength and weight by planning how much balsa wood and glue we could use before building and testing the tower."
+  },
+  {
+    "objectID": "posts/Balsa Tower Project/index.html#what-we-did",
+    "href": "posts/Balsa Tower Project/index.html#what-we-did",
     "title": "Balsa Wood Tower Design & Load Testing",
     "section": "What We Did",
-    "text": "What We Did\n\nDesigned and built a balsa wood tower.\nWorked within a 15-gram total mass limit.\nMeasured 15 balsa wood sticks to calculate material properties.\nCreated an Excel model to analyze linear density and budget the mass of wood and glue.\nCalculated how much usable material was available.\nTested the tower under increasing loads to evaluate its performance."
+    "text": "What We Did\n\nDesigned and constructed a balsa wood tower.\nWorked within a total mass limit of 15 grams.\nMeasured 15 balsa wood sticks to estimate material properties.\nUsed Excel to analyze linear density and plan the mass budget for wood and glue.\nCalculated how much usable material was available.\nTested the structure under increasing loads to evaluate its performance."
   },
   {
-    "objectID": "posts/Project 1/index.html#my-role",
-    "href": "posts/Project 1/index.html#my-role",
+    "objectID": "posts/Balsa Tower Project/index.html#my-role",
+    "href": "posts/Balsa Tower Project/index.html#my-role",
     "title": "Balsa Wood Tower Design & Load Testing",
     "section": "My Role",
-    "text": "My Role\nI helped with the tower’s design, construction, and testing. I also worked on the Excel analysis to determine how we could use our limited materials efficiently."
+    "text": "My Role\nI helped with the design, construction, and testing. I also worked on the Excel calculations to decide how we could use our limited materials efficiently."
   },
   {
-    "objectID": "posts/Project 1/index.html#what-i-learned",
-    "href": "posts/Project 1/index.html#what-i-learned",
+    "objectID": "posts/Balsa Tower Project/index.html#what-we-learned",
+    "href": "posts/Balsa Tower Project/index.html#what-we-learned",
     "title": "Balsa Wood Tower Design & Load Testing",
-    "section": "What I Learned",
-    "text": "What I Learned\nThis project helped me understand how engineering decisions involve tradeoffs between strength, weight, and material usage. It also gave me more experience using Excel to solve real engineering problems."
+    "section": "What We Learned",
+    "text": "What We Learned\nThis project helped us understand the tradeoffs between strength, weight, and material usage. We also gained experience using Excel to guide engineering decisions and working together to test a design."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this blog"
   },
   {
     "objectID": "posts/Data Visualization/index.html",
@@ -98,52 +154,10 @@
     "text": "Conclusion\nThis project helped us practice using Excel to organize data, compare groups, and create graphs that explain our findings. We also learned how to use assertion-evidence slides to make the main point of a graph clear to an audience."
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this blog"
-  },
-  {
-    "objectID": "posts/post-with-code/index.html",
-    "href": "posts/post-with-code/index.html",
-    "title": "Post With Code",
-    "section": "",
-    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
-  },
-  {
-    "objectID": "posts/Project 2/index.html#project-overview",
-    "href": "posts/Project 2/index.html#project-overview",
-    "title": "Robot Path Optimization",
-    "section": "Project Overview",
-    "text": "Project Overview\nAs part of my Introduction to Engineering coursework at the University of Arkansas, I led a student team in programming a robot to navigate an obstacle course. Our goal was to find the most efficient route while minimizing completion time and collisions."
-  },
-  {
-    "objectID": "posts/Project 2/index.html#what-we-did",
-    "href": "posts/Project 2/index.html#what-we-did",
-    "title": "Robot Path Optimization",
-    "section": "What We Did",
-    "text": "What We Did\n\nProgrammed the robot to move through an obstacle course.\nCompared different paths to determine which was most efficient.\nConducted test runs to evaluate performance.\nAdjusted the robot’s movement program based on our results."
-  },
-  {
-    "objectID": "posts/Project 2/index.html#my-role",
-    "href": "posts/Project 2/index.html#my-role",
-    "title": "Robot Path Optimization",
-    "section": "My Role",
-    "text": "My Role\nI helped lead the team throughout the project, focusing on improving our approach and making adjustments based on testing."
-  },
-  {
-    "objectID": "posts/Project 2/index.html#what-i-learned",
-    "href": "posts/Project 2/index.html#what-i-learned",
-    "title": "Robot Path Optimization",
-    "section": "What I Learned",
-    "text": "What I Learned\nThis project gave me hands-on experience with problem solving, optimization, programming, and teamwork. It also taught me how small improvements to a process can make a difference in overall performance."
-  },
-  {
     "objectID": "projects.html",
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Welcome To My Blog\n\n\n\n\n\n\nTristan O’Malley\n\n\nSep 28, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\n\n\n\nHarlow Malloc\n\n\nOct 1, 2026\n\n\n\n\n\n\n\n\n\n\n\nData Visualization Team Project\n\n\n\n\n\n\nLandon Moore, Daniel Lain, Brady Crebbe, Garrett Studer, and Cooper Martindale\n\n\n\n\n\n\n\n\n\n\n\ndate: “2025-10-05”\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\ndate: “2026-04-22”\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Balsa Wood Tower Design & Load Testing\n\n\nDesigned and tested a lightweight structure while using Excel to plan material usage.\n\n\n\nLandon Moore\n\n\nOct 5, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nRobot Path Optimization\n\n\nLed a team in programming and optimizing a robot’s movement through an obstacle course.\n\n\n\nLandon Moore\n\n\nApr 22, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nData Visualization Team Project\n\n\n\n\n\n\nLandon Moore, Daniel Lain, Brady Crebbe, Garrett Studer, and Cooper Martindale\n\n\n\n\n\n\nNo matching items"
   }
 ]

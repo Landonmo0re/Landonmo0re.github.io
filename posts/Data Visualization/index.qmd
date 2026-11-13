@@ -1,6 +1,7 @@
 ---
 title: "Data Visualization Team Project"
 author: "Landon Moore, Daniel Lain, Brady Crebbe, Garrett Studer, and Cooper Martindale"
+image: DVcover.jpg
 ---
 
 ## Group Members
@@ -66,4 +67,3 @@ For this project, our team used Microsoft Excel to study data about gym members 
 ## Conclusion
 
 This project helped us practice using Excel to organize data, compare groups, and create graphs that explain our findings. We also learned how to use assertion-evidence slides to make the main point of a graph clear to an audience.
-

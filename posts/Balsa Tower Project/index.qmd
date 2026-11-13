@@ -1,0 +1,32 @@
+---
+title: "Balsa Wood Tower Design & Load Testing"
+description: "Designed and tested a lightweight structure while using Excel to plan material usage."
+author: "Landon Moore"
+date: "2025-10-05"
+image: BTPcover.jpg
+---
+
+## Project Introduction
+
+For our Introduction to Engineering course at the University of Arkansas, our team designed and built a balsa wood tower with a 15-gram mass limit. We wanted to make the structure as strong as possible while staying within the material limit.
+
+## Project Objective
+
+Our goal was to balance strength and weight by planning how much balsa wood and glue we could use before building and testing the tower.
+
+## What We Did
+
+- Designed and constructed a balsa wood tower.
+- Worked within a total mass limit of 15 grams.
+- Measured 15 balsa wood sticks to estimate material properties.
+- Used Excel to analyze linear density and plan the mass budget for wood and glue.
+- Calculated how much usable material was available.
+- Tested the structure under increasing loads to evaluate its performance.
+
+## My Role
+
+I helped with the design, construction, and testing. I also worked on the Excel calculations to decide how we could use our limited materials efficiently.
+
+## What We Learned
+
+This project helped us understand the tradeoffs between strength, weight, and material usage. We also gained experience using Excel to guide engineering decisions and working together to test a design.

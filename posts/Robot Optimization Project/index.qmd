@@ -1,0 +1,30 @@
+---
+title: "Robot Path Optimization"
+description: "Led a team in programming and optimizing a robot's movement through an obstacle course."
+author: "Landon Moore"
+date: "2026-04-22"
+image: ROPcover.jpg
+---
+
+## Project Introduction
+
+For our Introduction to Engineering course at the University of Arkansas, our team programmed a robot to navigate an obstacle course. Our goal was to find an efficient path while reducing the time needed to complete the course and avoiding collisions.
+
+## Project Objective
+
+We wanted to improve how the robot moved through the course by comparing different paths and making changes based on the results of our tests.
+
+## What We Did
+
+- Programmed the robot to navigate an obstacle course.
+- Compared different routes to see which worked most efficiently.
+- Ran tests to evaluate how the robot performed.
+- Adjusted the robot's movement program after reviewing the results.
+
+## My Role
+
+I helped lead the team and worked on improving our approach throughout the project. I also helped make adjustments based on what we learned during testing.
+
+## What We Learned
+
+This project gave us experience with programming, optimization, problem solving, and teamwork. It showed us how testing and small changes can improve how a process performs.
